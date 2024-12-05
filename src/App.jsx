@@ -44,7 +44,7 @@ const App = () => {
 
   return (
     <div>
-    <h1>todos</h1>
+    <h1>todo</h1>
       <form onSubmit={handleClick}>
         <input
           type="text"
